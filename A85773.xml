@@ -1,0 +1,196 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>New-Englands vindidation [sic]. Shewing the mis-understanding of the apprehension to take all that vast countrey under the notion of a particular place of one pattent of Boston, the metropolitan of the Machechusets there, who in these late times have acted as a free state and illegal proceeding, as by the many books and complaints by petition have caused an odium on the countrey in general, in vindication to manifest the worth of the countrey in general, it is as hopeful to enlarge His Majesties dominions, as if all the Baltick seas were annexed to his empire. By Henry Gardener merchant, whose father was one of the first adventurers thither, and into other parts of America.</title>
+            <author>Gardener, Henry, b. 1629?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85773</idno>
+            <idno type="STC">Wing G222</idno>
+            <idno type="STC">ESTC R215694</idno>
+            <idno type="EEBO-CITATION">99897400</idno>
+            <idno type="PROQUEST">99897400</idno>
+            <idno type="VID">132787</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85773)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 132787)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2500:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>New-Englands vindidation [sic]. Shewing the mis-understanding of the apprehension to take all that vast countrey under the notion of a particular place of one pattent of Boston, the metropolitan of the Machechusets there, who in these late times have acted as a free state and illegal proceeding, as by the many books and complaints by petition have caused an odium on the countrey in general, in vindication to manifest the worth of the countrey in general, it is as hopeful to enlarge His Majesties dominions, as if all the Baltick seas were annexed to his empire. By Henry Gardener merchant, whose father was one of the first adventurers thither, and into other parts of America.</title>
+                  <author>Gardener, Henry, b. 1629?</author>
+               </titleStmt>
+               <extent>[4], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the authour,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the John Carter Brown Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>New England --  History --  Colonial Period, ca. 1600-1775 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:132787:1"/>
+            <!-- PDF PAGE 39 -->
+            <pb facs="tcp:132787:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 39 -->
+            <p>New-Englands VINDIDATION.</p>
+            <p>Shewing the Miſ-underſtanding of the APPREHENSION To take all that vaſt Countrey under the Notion of a particular place of one Pattent of <hi>Boſton,</hi> the Metro<g ref="char:EOLhyphen"/>politan of the <hi>Machechuſets</hi> there, who in theſe late Times have Acted as a Free State and Il<g ref="char:EOLhyphen"/>legal proceeding, as by the many Books and Complaints by Petition have cauſed an Odium on the Countrey in general, in vindication to manifeſt the worth of the Countrey in general, it is as hopeful to enlarge His Ma<g ref="char:EOLhyphen"/>jeſties Dominions, as if all the Baltick Seas were Annexed to His Empire.</p>
+            <p>By <hi>HENRY GARDENER</hi> Merchant, whoſe Fa<g ref="char:EOLhyphen"/>ther was one of the firſt Adventurers thither, and into other parts of <hi>America.</hi>
+            </p>
+            <p>LONDON, Printed for the Authour, 1660.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:132787:2"/>
+            <!-- PDF PAGE 40 -->
+            <pb facs="tcp:132787:2"/>
+            <!-- PDF PAGE 40 -->
+            <head>THE EPISTLE TO THE READER<g ref="char:punc">▪</g>
+            </head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>MY Father with others, and Capt. <hi>John Maſon,</hi> ha<g ref="char:EOLhyphen"/>ving lived long in the Oriental parts of the World, almoſt as much Eaſtwards, as <hi>New England</hi> is Weſtwards, in the ſame lo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gitude from <hi>42</hi> to <hi>44</hi> degrees, at great charges procured ſundry Pat<g ref="char:EOLhyphen"/>tents, as may appear; hoping to fix them and their poſteri<g ref="char:EOLhyphen"/>ty, propagate the Goſpel, and enlarge His Majeſties Do<g ref="char:EOLhyphen"/>minions where never any Chriſtian inhabited, to the vaſt charges of many 1000 l. as by ſundry Books extant, beſides the Relation of an old Gentleman in them mentioned,<note place="margin">Mr. God<g ref="char:EOLhyphen"/>frey.</note> being well known to have merited of his own Countrey, in other parts, here, and in <hi>New-England 27</hi> years in perſon, is manifeſt; hath induced me to write theſe few lines. I find the Countrey no leſs hopeful to His Majeſty, then what we did expect, but under Notion of one particular Pat<g ref="char:EOLhyphen"/>tent, of <hi>30</hi> others, now grown great, ſtrong and potent by the Times and friends here. In theſe moſt ſad times of diſtraction, the <hi>Machechuſets</hi> of <hi>Boſton</hi> acting as a Free State; have by thoſe proceedings caſt an Odium on all that vaſt Countrey, not onely to be deſpicable, unprofita<g ref="char:EOLhyphen"/>ble, and matters of other conſequence. I thought good to ſhew ſo much His Majeſties Title to the Countrey, by ſome
+<pb facs="tcp:132787:3"/>
+               <!-- PDF PAGE 41 -->Collections I have ſeen from <hi>New-found-land</hi> to <hi>Cape Florida,</hi> which were well to be publiſhed with the Mapps and Cards: till when this may ſuffice to ſhew the unjuſt pro<g ref="char:EOLhyphen"/>ceedings of the ſaid Gentleman of the Colony of <hi>Boſton,</hi> a<g ref="char:EOLhyphen"/>gainſt the ſaid Gentleman and thoſe of the Eaſtern parts, who were not all of their tenents, but ever acted according to His Majeſties Lawes, in taking the Oath of Allegiance and Supremacy, they being of a contrary opinion: and Mr. <hi>Hugh Peters</hi> and other their Agents made uſe of their times here, <hi>1652.</hi> ſubjugated all the Eaſtern parts, and put the Oath of Fidelity to the State, without any Relation to <hi>England,</hi> to the ruine of ſome Families. I wiſh every man may have his Right, and His Majeſty his Right Intereſt: which is all my aime and endeavour. It were good the Mapps and Cards to be Printed, were ſphe<g ref="char:EOLhyphen"/>rically drawn, each Pattent to be bounded, and their ac<g ref="char:EOLhyphen"/>knowledgements looked unto, what not granted, nor Con<g ref="char:EOLhyphen"/>ditions performed, if His Majeſty would Grant, Cuſtomers would not be wanting, and a Revenue to His Majeſty raiſed, which will cauſe Peace and Quiet to the Countrey, and ſecurity of His Majeſties Intereſt.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:132787:3" rendition="simple:additions"/>
+            <!-- PDF PAGE 41 -->
+            <head>To Anſwer ſuch as ſay His Majeſty <hi>KING CHARLES</hi> has no Title to that vaſt Empire, from <hi>New-found-land</hi> to <hi>Cape-Florida:</hi> ſome ſuch there be; others no King but Chriſt; others <hi>Libertines,</hi> to do what is good in their own eyes; ſome <hi>Iſraelites;</hi> the reſt <hi>Egyptians.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg>Gainſt all. His Majeſties Right in thoſe parts, is 1. By Diſcovery from <hi>Hen<g ref="char:EOLhyphen"/>ry</hi> the 7th time, by <hi>Sebaſtian Cabott,</hi> for which he had a Pention of 200 Marks <hi>per annum.</hi> 2. By Poſſeſſion of Sir <hi>Hum<g ref="char:EOLhyphen"/>phrey Gilbert,</hi> Sir <hi>Richard Greenfield,</hi> Sir <hi>Walter Rawley</hi> in Queen <hi>Elizabeths</hi> time, named <hi>Virginia.</hi> After whoſe death King <hi>James</hi> of ever bleſ<g ref="char:EOLhyphen"/>ſed memory, peace being concluded, many Sea-men and Souldiers went to ſerve other Princes; others on Diſcoveries, as the North-Weſt paſſage, &amp;c, ſome fell with the Coaſt of <hi>New-England,</hi> and brought home ſome of the Natives.</p>
+            <p>
+               <note place="margin">About 1644.</note>So my Lord <hi>Popham</hi> and others procured Pattents, for
+<pb n="2" facs="tcp:132787:4"/>
+               <!-- PDF PAGE 42 -->two Colonies to be ſettled in thoſe parts, one by the Name of <hi>Virginia;</hi> the other of <hi>New-England.</hi>
+            </p>
+            <p>Then my Lord <hi>Popham</hi> and others ſent to inhabite <hi>New-England,</hi>
+               <note place="margin">1607</note> and ſettled a Colony at <hi>Saquada<g ref="char:EOLhyphen"/>hock,</hi> the Ruines and fruit Trees remain to this day; but he dying, all fell: Then divers Fiſher<g ref="char:EOLhyphen"/>men went onely to fiſh; and one <hi>Hunt</hi> at the end of his Voyage, in the <hi>Long-Robert</hi> betrayed 22 of the Natives aboard his Ship, carried them for <hi>Spain,</hi> to ſell them for Slaves; (an ill Act) they would not work; the <hi>Spaniard</hi> refuſed them; ſome of them brought for <hi>England: Hunt</hi> taken by the <hi>Turks</hi> coming home.</p>
+            <p>By reaſon of theſe ſalvages another Atchievement was made,<note place="margin">1614</note> but it came to nothing.</p>
+            <p>Sir <hi>Richard Hawkins</hi> went in Ship of his own,<note place="margin">1615</note> the <hi>Garland,</hi> to make a Fiſhing-Voyage and Diſcovery: made a good Voyage, but no Diſcovery.</p>
+            <p>His Majeſty granted Letters Pattents to the Coun<g ref="char:EOLhyphen"/>cil of <hi>Plymouth,</hi>
+               <note place="margin">1619</note> and after confirmed by Pattents of Incorporation to certain Lords,<note place="margin">1620</note> but great troubles a<g ref="char:EOLhyphen"/>roſe in Parliament, that it was a Monopoly; of which and other paſſages, I ſhall treat hereafter at large.</p>
+            <p>Then the ſaid Council granted ſundry Pattents, as to Capt. <hi>Willeſton,</hi> Mr. <hi>Tho. Morton,</hi> ſome of <hi>Dorcheſter</hi> and other, to ſettle in the Bay of the <hi>Machechu<g ref="char:EOLhyphen"/>ſets.</hi>
+            </p>
+            <p>There were divers of <hi>Robinſons</hi> Tenents of <hi>Amſter<g ref="char:EOLhyphen"/>dam,</hi>
+               <note place="margin">1621</note> and other Merchants of <hi>London</hi> joyned to ſettle a Colony nigh <hi>Cape Cod,</hi> now called <hi>New-Plymouth</hi> in <hi>New-England; Godfrey</hi> was one, but in two years they brought thoſe that ſent them 1800. l. in debt, ſo that the principat was fain to pay the debt; but ſince they have flouriſhed and thrived, and do to this day: have well
+<pb n="3" facs="tcp:132787:4" rendition="simple:additions"/>
+               <!-- PDF PAGE 42 -->acted for themſelves, as the Mode of <hi>New-England</hi> is.</p>
+            <p>There were divers worthy Gentlemen,<note place="margin">1621 4<hi rend="sup">o</hi>. Car.</note> deſirous to ſeparate from the Church of <hi>England,</hi> yet among them<g ref="char:EOLhyphen"/>ſelves of ſundry Opinions, (as hereafter) the moſt diſ<g ref="char:EOLhyphen"/>creeteſt of them procured a Pattent, firſt by my Lord of <hi>Warwick,</hi> from the Council of <hi>New-Plymouth,</hi> after in<g ref="char:EOLhyphen"/>larged by his Majeſty to Sir <hi>Will. Ruſſel,</hi> Mr. <hi>Jo. Wyn<g ref="char:EOLhyphen"/>thrope,</hi> and divers others, as may appear; by Authority whereof, and perſons of ſo great Eminency and Quali<g ref="char:EOLhyphen"/>ty going, and Books of Incouragement diſperſed over all <hi>England;</hi> they proceeded ſo well and effectually, that ſeven Ships were provided at the <hi>Couſes</hi> and <hi>Hamp<g ref="char:EOLhyphen"/>ton,</hi> and thoſe parts, with all ſorts of Proviſions fit to ſettle a New Colony in a New Country; divers good and godly people went, but divers under the Umbrel<g ref="char:EOLhyphen"/>la of Religion, in regard of the largeneſs of their Pat<g ref="char:EOLhyphen"/>tent, which was three Miles South of <hi>Charles</hi> River, three Miles North Eaſt of <hi>Merimack,</hi> and fifty Miles by Sea ſhore, 1629. Bounded by themſelves, named it the Bound-Houſe, yet to be ſeen; their Pattent had large Limits and Priviledges by Incorporation, as Cu<g ref="char:EOLhyphen"/>ſtom free for ſeven years, which other Pattents had not; yet they were tyed not to act contrary to the Laws, or any way repugnant to <hi>England;</hi> &amp; other Acknowledg<g ref="char:EOLhyphen"/>ments, as may appear. Men of great Eſtates went, and many ventured deeply, great Sums of Money of Bene<g ref="char:EOLhyphen"/>volences gathered, at preſent about 700. l. <hi>per Annum,</hi> in I and yearly, for the converting the <hi>Indians,</hi> what done therein, the Lyon not ſo fierce, as painted Mr. <hi>Rouſes</hi> Book will ſhew. Of perſons of note went the Lady <hi>Arabella,</hi> Daughter to the Earl of <hi>Lincoln,</hi> and her Husband, Mr. <hi>Iſaac Johnſon;</hi> in honour of whom the Ship <hi>Eagle,</hi> the <hi>Admiral,</hi> was called the <hi>Arabella;</hi> ſo
+<pb n="4" facs="tcp:132787:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 43 -->with great Riches, Furniture, Proviſions of all ſorts, Tradeſ-men, and Utenſils for all Manufactures, people of all ſorts went; <hi>Portanter avarii Pigmaliones opes pel<g ref="char:EOLhyphen"/>lago Dux, Faemena facti.</hi>
+            </p>
+            <p>
+               <hi>Relinquendo,</hi> to leave their Native Country, <hi>Rele<g ref="char:EOLhyphen"/>gando,</hi> to combine to ſettle at <hi>Vtopia,</hi> they ſafely arrived at <hi>Salem,</hi> and yearly great multitudes of People of all ſorts went thither and reſorted to them by Thouſands; they fell to modelling of Government for <hi>Church</hi> and <hi>Common-wealth,</hi> gathering of Churches; as Peo<g ref="char:EOLhyphen"/>ple came, they could not agree of points of Contro<g ref="char:EOLhyphen"/>verſie in Religion; a moſt hideous Monſter was born, of ſtupendious Forms and Shapes, which did prognoſti<g ref="char:EOLhyphen"/>cate their Diſſenſion; Mr. <hi>Cotton</hi> the Miniſter ſaid in the Pulpit, it had as many Shapes as Tenents broached; ſo that ſome not agreeing were baniſhed, and a Council, or a Conventicle held, a man might ſee a Speech, but a wiſe man would not regard the Punctilio's, as in occa<g ref="char:EOLhyphen"/>ſion I ſhall ſay hereafter; there was ſuch a Confuſion, that the wiſeſt were at a maze, and ſo many Complaints came to <hi>England</hi> againſt them, that it was doubtful in ſhort time they would quite ſhake off the Royal Juriſdi<g ref="char:EOLhyphen"/>ction of <hi>England</hi> (as now) all the Ships ſtayed for going thither; all Objections againſt them were then anſwered by Mr. <hi>Godfrey,</hi> who lived remote from them, where all had then taken the Oath of Al<g ref="char:EOLhyphen"/>legiance and Supremacy; ſo that upon his Plea, all the Ships were cleared. Thereby their Gover<g ref="char:EOLhyphen"/>nour and others, held <hi>Gratum Opus,</hi> ſince ill rewarded. Mr. <hi>John Wynthrope</hi> was a worthy Patriot and Gover<g ref="char:EOLhyphen"/>nour, his equal they may in time have, but a better will never come there; for ſince his death others alſo dead, and ſome reurned to <hi>England,</hi> ſeeking ambitiouſly
+<pb n="5" facs="tcp:132787:5"/>
+               <!-- PDF PAGE 43 -->far beyond their power or abilities, as by ſo many Books Petitions, and Remonſtrances againſt them may ap<g ref="char:EOLhyphen"/>pear: So we may ſay as of <hi>Rome, Behold of late O little Rome,</hi> to what a greatneſs ſhe is come; of <hi>Boſton</hi> one poor Pattent granted, but of late is now become a mighty State; never Horſe nor man ere turned home bettered by the ſight of <hi>Rome.</hi>
+            </p>
+            <p>From <hi>Boſton</hi> in the <hi>American</hi> Strands, none ere came bettered, except he came by Land, for too much power ſo far off, in ſuch hands, ſeldome wants danger not to meaſure Juriſdiction by the length of their Swords; they may hold themſelves wiſe, and turn others out for fools, (but now) <hi>Che Tropo ſe ſtringe toto diſleguea;</hi> if of meek ſpirit, ſhould have ſuffered others after thirty years poſſeſſion, and never any Complaint there or here, and approved by themſelves, as under all their hands will appear. If Royal or Loyal Subjects, ſhould have emulated who ſhould have given the beſt account of all their Tranſactions, and ſuffered Appeals and Ju<g ref="char:EOLhyphen"/>dication for <hi>England,</hi> and aſſiſted one the other, if they will acknowledge <hi>Englands</hi> power: If it be but weak<g ref="char:EOLhyphen"/>neſs in ſome Men, as a ſublimated Coach-man from the Box to the Bench, and Plow to Pulpit; a Tay<g ref="char:EOLhyphen"/>lor or two, and the like, with the mecannick Grandee Laymans Deputy, to ſtritch ſo large as to act contrary to <hi>Jus Gentium Lex,</hi> Law of our own Country, or <hi>Con<g ref="char:EOLhyphen"/>celarum Contience,</hi> to paſs Sentence before Plea or Judi<g ref="char:EOLhyphen"/>cation, to inrich ſome turbulent men of low condition and leſs breeding; as one anſwered about the Book of <hi>Common-Prayer,</hi> he ſhewed them that could read, the 29. <hi>Eccleſ.</hi> How can he get wiſdome that holdeth the Plow, &amp;c. ſuch ſhould not ſit high in the Congrega<g ref="char:EOLhyphen"/>tion, &amp;c. They may do well in time to ſubmit, and for
+<pb n="6" facs="tcp:132787:6" rendition="simple:additions"/>
+               <!-- PDF PAGE 44 -->wrongs done, make ſatisfaction or acknowledgment, as 22. years paſſed their Pattent was ſued to a <hi>Quo Warranto,</hi> and ſent for; if thirty more Queries be ad<g ref="char:EOLhyphen"/>ded, as for inſtance three or four, denying Appeals, Printing, Coining, and that his Majeſties Coyn from 12 <hi>d.</hi> to 9 <hi>d.</hi> the Juriſdiction of Admiralty, <hi>Engliſh</hi> Col<g ref="char:EOLhyphen"/>lors.</p>
+            <p>By ſuch proceedings the Country is held deſpicable, and an Odium caſt on it, by the moſt unjuſt and unad<g ref="char:EOLhyphen"/>viſed proceeding of one particular Pattent and place of <hi>Boſton,</hi> which if others have their Rights, is not one 6th. part of the Country, and but one of thirty other Pat<g ref="char:EOLhyphen"/>tents, by the ſad diſtractions of the Times; here divers Miniſters went thither for the good of the Cauſe, as they ſaid, returned for the Loaves ſake, as Mr. <hi>Hugh Pe<g ref="char:EOLhyphen"/>ters,</hi> with twenty more of his Tribe; and ſome o<g ref="char:EOLhyphen"/>ther men of great eſteem, as Sir <hi>Henry Vane,</hi> Sir <hi>R. Saltenſtal,</hi> and an Agmen of men of all ſorts, all high<g ref="char:EOLhyphen"/>ly preferred in Church, State, Army, Navy, Cuſtom<g ref="char:EOLhyphen"/>houſe. &amp;c. and ſome of no Literature, to preach, and Beneficed, and plundering here violently; it has a worm in the root in this time, the ableſt Miniſters and Magiſtrates dead, and ſome gone. There is ſome good Gentlement yet, as Mr. <hi>Indicoat,</hi> Mr. <hi>Bellingham,</hi> Mr. <hi>Demſon,</hi> but they have no power, the Country act as a Free State, the Deputies firſt, they as the Miniſters will; ſo if the Miniſters and Deputies enter on mens E<g ref="char:EOLhyphen"/>ſtates and Lands, as they have done, as I ſhall ſhew, and ſubjugate all other Pattents, &amp; make them Town-ſhips; We that firſt ventured muſt petition, our ſometimes Servants to be good to their Maſters Children; what Law can we have or expect that be of the Church of <hi>England,</hi> they <hi>Independants,</hi> ſo our Antagoniſts, incom<g ref="char:EOLhyphen"/>petent
+<pb n="7" facs="tcp:132787:6" rendition="simple:additions"/>
+               <!-- PDF PAGE 44 -->Judges, being parties in action, and oppoſite in Religion: Let it be obſerved, that if in ten years they came to this height, what in theſe twenty, having ſo inriched themſelves in Wealth, Strength, and Fortifica<g ref="char:EOLhyphen"/>tions, that if they Fortifie <hi>Paſcataqua</hi> River for them<g ref="char:EOLhyphen"/>ſelves, as they have ſubjugated it, and now Arm againſt the <hi>Dut<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ew <hi>Neatherland,</hi> with their united Collo<g ref="char:EOLhyphen"/>nies, they may be the invicible States in <hi>America.</hi> If any object the contrary, I ſhall make it appear; let Major <hi>Robert Sedgwick,</hi> &amp; Capt. <hi>Leveret, Nova Scotia Franc<gap reason="illegible" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>,</hi> Buſineſs be a preſident, for the difficulty, char<g ref="char:EOLhyphen"/>ges, and danger, if not in time prevented, may be more obnoxious to <hi>England,</hi> than ever the <hi>Hollander</hi> was to the <hi>King</hi> of <hi>Spain.</hi> All the power is in the <hi>Independant</hi> way, yet three to one out; and his Majeſty has to my know<g ref="char:EOLhyphen"/>ledg as Loyal Subjects as any in <hi>England:</hi> in ſhort time they will be in Confuſion in themſelves, the Country wholeſome, pleaſant; and if good Society and <hi>Engliſh</hi> Government were there, people would rather live there than in <hi>Africk, Greece, Italy, France, Spain,</hi> or <hi>England;</hi> it tranſcends all the <hi>Baltick Seas,</hi> and affords all or any Commodity they have, &amp; more plenty of ſundry ſorts, and of more concernment to his Majeſty, than if all the <hi>Baltick Seas</hi> were annexed to his Empire; as in a ſhort Epitomy and Anotamy of thoſe Countries, from <hi>New-found-land</hi> to <hi>Cape Florida,</hi> with the Mapps and Cards ſhall appear, with Collections of 55. years Pil<g ref="char:EOLhyphen"/>grimage: it is want of Charity in the <hi>Independant</hi> Mi<g ref="char:EOLhyphen"/>niſters, the Commons are poſſeſſed they are all <hi>Iſra<g ref="char:EOLhyphen"/>elites,</hi> and we <hi>Egyptians,</hi> of the Orthodox and true Church of <hi>England,</hi> and reject old Planters that made way for them; Mr. <hi>Sa. Maverick</hi> for one, the moſt Hoſpitable for entertainment of People of all ſorts, <hi>A<g ref="char:EOLhyphen"/>merica</hi>
+               <pb n="8" facs="tcp:132787:7" rendition="simple:additions"/>
+               <!-- PDF PAGE 45 -->afforded not, nor does the like, yet never free of Avenies and troubles to many, ſome Life, Impriſon<g ref="char:EOLhyphen"/>ment, Illegal Subverſion, and Uſurping others Rights: I could wiſh they had ſo much Charity as <hi>Turk</hi> or <hi>Re<g ref="char:EOLhyphen"/>miſh,</hi> do as you would be done to; no Salvation with<g ref="char:EOLhyphen"/>out Reſtitution if able, not ſo much ſuch as <hi>Iſraelites</hi> and <hi>Egyptians,</hi> and not to reward evil for go<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>: If this is too ſhort or tart, I ſhall be more copious with their proceedings with us, whom you call, without Authen<g ref="char:EOLhyphen"/>ticated, by proceeding of their Courts, with their Magi<g ref="char:EOLhyphen"/>ſtrates Hands; and though you have ſome good, godly, and able Miniſters, ſome are to be blamed for irreve<g ref="char:EOLhyphen"/>rend ſpeaking againſt ours, and they worſe.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:132787:7"/>
+            <!-- PDF PAGE 45 -->
+         </div>
+      </body>
+   </text>
+</TEI>
